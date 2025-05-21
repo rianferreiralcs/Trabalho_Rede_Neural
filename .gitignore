@@ -1,0 +1,10 @@
+# Ambientes virtuais
+env
+venv
+.venv
+
+# Varíaveis do ambiente
+.env
+
+# Backups do jupyter
+.ipynb_checkpoints
